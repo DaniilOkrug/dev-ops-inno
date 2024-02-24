@@ -12,7 +12,7 @@ provider "vkcs" {
     username = "daniil.okrug@gmail.com"
 
     # The password of the account
-    password = "200108OdV"
+    password = "password"
 
     # The tenant token can be taken from the project Settings tab - > API keys.
     # Project ID will be our token.
