@@ -9,10 +9,10 @@ terraform {
 
 provider "vkcs" {
     # Your user account.
-    username = "daniil.okrug@gmail.com"
+    username = "***"
 
     # The password of the account
-    password = "password"
+    password = "***"
 
     # The tenant token can be taken from the project Settings tab - > API keys.
     # Project ID will be our token.
